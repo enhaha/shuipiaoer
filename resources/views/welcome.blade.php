@@ -8,7 +8,7 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                    Your Application's Landing Page.WoWooooooo!!!
+                    好吧，你找到了主页，你赢了.WoWooooooo!!!
                 </div>
             </div>
         </div>

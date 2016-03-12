@@ -15,11 +15,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('getname', function() {
+Route::get('get/name', function() {
     //
-    $a = gethostbyname("shuipiaoer.local");
-    echo "$a";
-    return gethostname();
+    // var_dump($_GET);
+    var_dump($_SERVER);
+    // var_dump($_SERVER['PATH_INFO']);
 });
 
 Route::get('ceshi',function(){
